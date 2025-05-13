@@ -20,13 +20,13 @@ O projeto foi desenvolvido em Python no Google Colab, utilizando as seguintes bi
 ## 📷 Exemplos de Gráficos
 
 ### 📊 Faturamento por loja
-![FATURAMENTO](imgs/FATURAMENTO.png)
+![FATURAMENTO](Images/FATURAMENTO.png)
 
 ### 🛍️ Vendas por categoria
-![CATEGORIA](imgs/CATEGORIA.png)
+![CATEGORIA](Images/CATEGORIA.png)
 
 ### 🌟 Média de avaliação das lojas
-![AVALIACAO](imgs/AVALIACAO.png)
+![AVALIACAO](Images/AVALIACAO.png)
 
 ## 📦 Conjunto de Dados
 
